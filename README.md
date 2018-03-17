@@ -31,7 +31,7 @@
 
 ## Paramètre serveur : 
 
-- ApiPlateform pour les getteurs
+- ApiPlateform pour les geters
 - `/upload` pour l'upload de media
 - `/delete/{id}` pour supprimer un media
 - `/upload/{id}` pour la mise à jour d'un media
@@ -41,7 +41,7 @@
 
 # Todo 
 
-Fichier de paramètres exterrieurs à placer dans .gitignore 
+Fichier de paramètres extérieurs à placer dans .gitignore 
 
 Croping des images en ligne
 
