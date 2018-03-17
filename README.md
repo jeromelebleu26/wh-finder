@@ -25,19 +25,19 @@
 **id** : id du champ à renseigner
 
 **type** : 
-- api : pour une url d'api
-- url : pour l'url du media
-- id : pour l'id du media
+- `api` : pour une url d'api
+- `url` : pour l'url du media
+- `id` : pour l'id du media
 
 ## Paramètre serveur : 
 
-    - ApiPlateform pour les getteurs
-    - `/upload` pour l'upload de media
-    - `/delete/{id}` pour supprimer un media
-    - `/upload/{id}` pour la mise à jour d'un media
-    - champ `urlLast` pour une url avec timestamp pour eviter le cache des images
-    - champ `alt` 
-    - champ `description` 
+- ApiPlateform pour les getteurs
+- `/upload` pour l'upload de media
+- `/delete/{id}` pour supprimer un media
+- `/upload/{id}` pour la mise à jour d'un media
+- champ `urlLast` pour une url avec timestamp pour eviter le cache des images
+- champ `alt` 
+- champ `description` 
 
 # Todo 
 
